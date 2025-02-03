@@ -10,5 +10,5 @@ O programa gera uma senha segura e a exibe.
 🚀 **Extras:**  
 Armazenar senhas em um arquivo local.  
 Criar uma interface gráfica simples com Tkinter.  
-📌 **conhecimentos**
+📌 **Conhecimentos:**
 lógica de programação, manipulação de strings e bibliotecas padrão do Python
