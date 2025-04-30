@@ -1,4 +1,4 @@
-## ** Projeto: Gerador de Senhas Aleatórias**  
+## Projeto: Gerador de Senhas Aleatórias
  **Objetivo:** 
 Criar um programa que gera senhas seguras com diferentes critérios, como tamanho e tipos de caracteres usados.  
  **Tecnologias:** 
