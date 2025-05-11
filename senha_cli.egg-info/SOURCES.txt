@@ -1,0 +1,10 @@
+README.md
+setup.py
+senha_cli/__init__.py
+senha_cli/gerador.py
+senha_cli.egg-info/PKG-INFO
+senha_cli.egg-info/SOURCES.txt
+senha_cli.egg-info/dependency_links.txt
+senha_cli.egg-info/entry_points.txt
+senha_cli.egg-info/requires.txt
+senha_cli.egg-info/top_level.txt
