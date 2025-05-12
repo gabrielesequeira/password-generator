@@ -1,14 +1,5 @@
 Metadata-Version: 2.4
 Name: senha-cli
-Version: 1.0.0
-Summary: Gerador de senhas seguro e personalizável
-Author: Seu Nome
-Author-email: seuemail@exemplo.com
-Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT License
+Version: 0.1
 Requires-Dist: pyperclip
-Dynamic: author
-Dynamic: author-email
-Dynamic: classifier
 Dynamic: requires-dist
-Dynamic: summary

@@ -1,2 +1,2 @@
 [console_scripts]
-senha-cli = senha_cli.gerador:main
+senha-cli = senha_cli.gerador_senhas:main
